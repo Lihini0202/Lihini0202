@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on **MERN , Machine Learning and DevOps projects**
 
-- 💻 Passionate about **ERN stack projects, exploring DevOps practices, and constantly learning about AI and machine learning to stay at the cutting edge of technology.**
+- 💻 Passionate about **MERN stack projects, exploring DevOps practices, and constantly learning about AI and machine learning to stay at the cutting edge of technology.**
 - 📫 How to reach me **lihinisewmini12@gmail.com**
 
 - ⚡ Fun fact **Love to work with a team**
