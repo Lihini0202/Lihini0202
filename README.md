@@ -12,9 +12,6 @@
 - ⚡ Fun fact **Love to work with a team**
 
 
-<h3 align="left">Connect with me:</h3>
-
-
 ## 📫 Contact
 
 Feel free to reach out for questions, collaboration opportunities, or just to connect! Let’s learn, code, and create amazing things together.  
