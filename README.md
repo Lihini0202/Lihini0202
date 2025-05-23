@@ -14,17 +14,16 @@
 
 <h3 align="left">Connect with me:</h3>
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lihini-edirisingha-a54799202" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="lihinisewmini12@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+## 📫 Contact
 
-###
+Feel free to reach out for questions, collaboration opportunities, or just to connect! Let’s learn, code, and create amazing things together.  
+
+[![Email](https://img.shields.io/badge/Email-lihinisewmini12%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lihinisewmini12@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LihiniEdirisingha-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lihini-edirisingha-a54799202)
+
+
+
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
