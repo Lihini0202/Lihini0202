@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lihini Edirisingha</h1>
-<h3 align="center">Information Technology undergraduate in Sri Lanka. Full-stack developer focused on MERN, DevOps enthusiast, and AI learner..</h3>
+<h3 align="center">Information Technology undergraduate in Sri Lanka. Full-stack developer, DevOps enthusiast, and AI learner..</h3>
 
 
 ### 🚀 About Me
