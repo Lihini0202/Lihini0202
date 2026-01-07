@@ -4,7 +4,7 @@
 
 
 ### 🚀 About Me
-I am an **Information Technology undergraduate** based in Sri Lanka, passionate about building intelligent systems and automating workflows. My focus lies at the intersection of **Artificial Intelligence** and **DevOps**, ensuring that smart models are deployed with robust, scalable infrastructure.
+I am an **BSc (Hons) Information Technology undergraduate** based in Sri Lanka, passionate about building intelligent systems and automating workflows. My focus lies at the intersection of **Artificial Intelligence** and **DevOps**, ensuring that smart models are deployed with robust, scalable infrastructure.
 
 - 🧠 **Currently Diving Deep Into**: Large Language Models (LLMs) & Neural Networks.
 - 🛠️ **Building**: Scalable full-stack applications with integrated ML pipelines.
